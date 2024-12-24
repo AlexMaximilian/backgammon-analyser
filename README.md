@@ -1,6 +1,5 @@
 # README.md
 
-## LINK TO VIDEO https://youtu.be/-GZi4bjsTJA
 ## Overview
 
 
